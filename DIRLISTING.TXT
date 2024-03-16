@@ -1,0 +1,48 @@
+
+ Volume in drive B has no label
+ Directory of B:\
+
+COMMAND  COM        15,957 10-19-83   7:51p
+FORMAT   COM         6,519 01-01-80  12:02a
+DISKCOPY COM         1,409 10-19-83   7:51p
+DEBUG    COM        12,223 10-19-83   7:52p
+CHKDSK   COM         6,468 10-19-83   7:51p
+EDLIN    COM         8,080 10-19-83   7:51p
+PRINT    COM         3,808 05-15-84   3:58p
+RECOVER  COM         2,295 10-19-83   7:51p
+SYS      COM           922 10-19-83   7:51p
+MORE     COM         4,364 10-19-83   7:51p
+SORT     EXE         1,632 05-15-84   3:21p
+FIND     EXE         6,331 10-19-83   7:51p
+FC       EXE         2,585 10-19-83   7:51p
+COMPDUPE COM         1,704 01-01-80  12:29a
+MAILLIST BAS        13,056 09-19-84   9:31a
+GRAPHICS BAS         9,209 02-25-86   5:46p
+EXE2BIN  EXE         1,649 10-19-83   7:51p
+HFORMAT  COM         7,683 12-07-84   9:12a
+ANSI     SYS         4,421 05-14-84  12:06a
+LPDRVR   SYS         3,425 09-17-85   2:59p
+CONFIGHD BAT            34 01-01-80  12:00a
+BACKUP   EXE        43,274 08-01-85  10:43a
+RESTORE  EXE        49,228 08-01-85  10:43a
+MODE     EXE        34,016 02-27-86  10:19a
+PCMAKER  COM         5,077 01-01-80   1:56a
+GRAPHICS COM         3,732 02-26-86  11:38a
+LIB      EXE        23,168 05-22-84   3:27p
+VDISK    SYS         2,151 10-24-85   1:00p
+PATCH    COM           621 03-17-86  10:55a
+LINK     EXE        42,330 04-01-83   2:21p
+BASIC    EXE        67,520 02-28-86   2:53p
+COPYDOS  BAT           132 09-25-84   9:24a
+LPSETUP  COM         5,911 03-20-86   8:22a
+README   DOC        46,363 09-05-86   3:27p
+CLOCKGET EXE         1,337 02-03-21   1:36p
+CLOCKSET EXE         1,211 02-03-21   1:36p
+MOUSE    SYS         2,972 05-07-84   4:14p
+YEAR     DAT             2 02-06-21  10:38a
+CONFIG   RTC            36 02-04-21   3:24p
+TNDY2000 SYS         5,332 02-14-86  11:36a
+AUTOEXEC RTC            69 02-06-21  10:28a
+MOUSCLCK BAT           850 01-01-80  12:01a
+       42 file(s)        449,106 bytes
+                          89,088 bytes free
