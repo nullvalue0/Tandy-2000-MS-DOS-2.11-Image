@@ -1,4 +1,4 @@
-# Tandy-2000-MS-DOS-2.11-Image
+# Tandy 2000 MS-DOS 2.11 Image
 
 MS-DOS 2.11 Boot Disk for TRS-80 Model 2000 (Tandy 2000) computers. Contains Digimouse driver and clock utilities.
 
